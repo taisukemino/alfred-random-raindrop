@@ -21,6 +21,3 @@ Randomly select and open bookmarks from your Raindrop.io collections.
 - Test tokens don't expire
 - Check `~/.alfred_random_raindrop.log` for errors
 
----
-
-**Created by**: Taisuke Mino
