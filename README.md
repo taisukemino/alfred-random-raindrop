@@ -4,6 +4,10 @@
 
 Randomly select and open bookmarks from your Raindrop.io collections.
 
+## Installation
+
+Click **[Random-Raindrop.alfredworkflow](Random-Raindrop.alfredworkflow)** → Click "View raw" to install.
+
 ## Setup
 
 1. Get a Raindrop.io test token:
