@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.local
+
+# Cache and log files
+.alfred_random_raindrop_cache.json
+.alfred_random_raindrop.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
+._*
